@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_Practices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b372a3a4ed642f334c47d70218793adea1b47b62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19a6671ff54d031344a767b7c1b58f3ba2bfaa7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_Practices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_Practices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
