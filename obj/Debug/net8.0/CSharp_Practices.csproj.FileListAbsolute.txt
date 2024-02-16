@@ -1,0 +1,15 @@
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\bin\Debug\net8.0\CSharp_Practices.exe
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\bin\Debug\net8.0\CSharp_Practices.deps.json
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\bin\Debug\net8.0\CSharp_Practices.runtimeconfig.json
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\bin\Debug\net8.0\CSharp_Practices.dll
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\bin\Debug\net8.0\CSharp_Practices.pdb
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\obj\Debug\net8.0\CSharp_Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\obj\Debug\net8.0\CSharp_Practices.AssemblyInfoInputs.cache
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\obj\Debug\net8.0\CSharp_Practices.AssemblyInfo.cs
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\obj\Debug\net8.0\CSharp_Practices.csproj.CoreCompileInputs.cache
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\obj\Debug\net8.0\CSharp_Practices.sourcelink.json
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\obj\Debug\net8.0\CSharp_Practices.dll
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\obj\Debug\net8.0\refint\CSharp_Practices.dll
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\obj\Debug\net8.0\CSharp_Practices.pdb
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\obj\Debug\net8.0\CSharp_Practices.genruntimeconfig.cache
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices\obj\Debug\net8.0\ref\CSharp_Practices.dll
