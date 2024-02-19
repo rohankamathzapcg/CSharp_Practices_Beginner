@@ -197,7 +197,7 @@ namespace Program
             // Console.WriteLine(builder);
 
             /********Part-10: Files & Directory***********/
-            // var path = @"C:\Sample Data\test-file.txt";
+            var path = @"C:\Sample Data\test-file.txt";
             // var pathOther = @"C:\Sample Data\Copied-File.txt";
             // File.Copy(@"C:\Sample Data\test-file.txt", @"C:\Sample Data\Copied-File.txt", true);
             // File.Delete(path);
@@ -214,20 +214,26 @@ namespace Program
             // fileInfo.Delete();
             // if (fileInfo.Exists) { }
 
-            Directory.CreateDirectory(@"C:\Sample Data");
-            var files = Directory.GetFiles(@"C:\Sample Data", "*.*", SearchOption.AllDirectories);
-            foreach (var file in files)
-            {
-                Console.WriteLine(file);
-            }
+            // Directory.CreateDirectory(@"C:\Sample Data");
+            // var files = Directory.GetFiles(@"C:\Sample Data", "*.*", SearchOption.AllDirectories);
+            // foreach (var file in files)
+            // {
+            //     Console.WriteLine(file);
+            // }
 
-            var directories=Directory.GetDirectories(@"C:\Sample Data","*.*",SearchOption.AllDirectories);
-            foreach(var directory in directories)
-            {
-                Console.WriteLine(directory);
-            }
+            // var directories=Directory.GetDirectories(@"C:\Sample Data","*.*",SearchOption.AllDirectories);
+            // foreach(var directory in directories)
+            // {
+            //     Console.WriteLine(directory);
+            // }
+            // Directory.Exists("...");
 
-            Directory.Exists("...");
+            //Path Class
+            Console.WriteLine("Extension: "+Path.GetExtension(path));
+            Console.WriteLine("Extension: "+Path.GetFileName(path));
+            Console.WriteLine("Extension: "+Path.GetDirectoryName(path));
+
+            
         }
         static string SummarizeText(string text)
         {
